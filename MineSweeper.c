@@ -13,7 +13,7 @@ int main()
     {
         counter += 1;
 
-        int field[rows][columns];
+        char field[rows][columns];
 
         for (size_t r = 0; r < rows; r++)
         {
